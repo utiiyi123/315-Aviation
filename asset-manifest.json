@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/315-Aviation/static/css/main.f855e6bc.css",
+    "main.js": "/315-Aviation/static/js/main.933f6529.js",
+    "static/js/453.2c9ae1a5.chunk.js": "/315-Aviation/static/js/453.2c9ae1a5.chunk.js",
+    "static/media/N903JT-99.jpg": "/315-Aviation/static/media/N903JT-99.a56c66df4c96a62f568b.jpg",
+    "static/media/N903JT-91.jpg": "/315-Aviation/static/media/N903JT-91.a784ac998d4b54c296c9.jpg",
+    "static/media/Heroimage.jpg": "/315-Aviation/static/media/Heroimage.3a245bd1834530b5e642.jpg",
+    "static/media/Exterior_Doors_Open_007 copy.jpg": "/315-Aviation/static/media/Exterior_Doors_Open_007 copy.ee71176e77e28c1035c7.jpg",
+    "static/media/ContHero.jpg": "/315-Aviation/static/media/ContHero.465c1800b3ece50f858b.jpg",
+    "static/media/AboutHero.jpg": "/315-Aviation/static/media/AboutHero.566955bfe4eab9e79bef.jpg",
+    "static/media/Exterior_Doors_Open_010 copy.jpg": "/315-Aviation/static/media/Exterior_Doors_Open_010 copy.4cf047b1a5a2a2aaca10.jpg",
+    "static/media/Instagram.png": "/315-Aviation/static/media/Instagram.80e598d8df0c0a94d580.png",
+    "static/media/logo.png": "/315-Aviation/static/media/logo.fa3b1aa1472a39414a77.png",
+    "static/media/img1.avif": "/315-Aviation/static/media/img1.5897eff973ef0d82dc97.avif",
+    "static/media/logo_4.png": "/315-Aviation/static/media/logo_4.6daa48505ed26870c4e7.png",
+    "static/media/img3.webp": "/315-Aviation/static/media/img3.40e2d5d5ef59b59bf881.webp",
+    "static/media/img2.jpg": "/315-Aviation/static/media/img2.d58a488b1e6736e90793.jpg",
+    "static/media/twitter.png": "/315-Aviation/static/media/twitter.112d93100806a70e5d28.png",
+    "static/media/linkedin.png": "/315-Aviation/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/facebook.png": "/315-Aviation/static/media/facebook.4f037d961598aff2a0a4.png",
+    "index.html": "/315-Aviation/index.html",
+    "main.f855e6bc.css.map": "/315-Aviation/static/css/main.f855e6bc.css.map",
+    "main.933f6529.js.map": "/315-Aviation/static/js/main.933f6529.js.map",
+    "453.2c9ae1a5.chunk.js.map": "/315-Aviation/static/js/453.2c9ae1a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.933f6529.js"
+  ]
+}
