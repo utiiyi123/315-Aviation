@@ -19,11 +19,16 @@ export const Global = () => {
                 </div>
 
                 <div className='lg:w-6/12'>
-                    <h1 className='lg:text-xl pt-4 font-bold'>The Global Authority in HondaJet Aircraft Sales</h1>
-                    <p className='lg:text-lg pt-6 font-mono'>The only Aircraft Brokerage and Acquisition Firm in the world dedicated exclusively
-                       to the HondaJet.  Global Elite Aviation has achieved more HondaJet sales transactions 
-                       than any other Brokerage and Acquisition company globally, with unparalleled knowledge 
-                       and experience, matched only by Honda Aircraft Company.
+                    <h1 className='lg:text-lg pt-4 font-semibold'>We enjoy watching our customers succeed.  Whether you’re a first time buyer or a seasoned aircraft owner,
+                        we are here to help you take on your next adventure.
+                    </h1>
+                    <p className='lg:text-md pt-6 font-mono'>Sarah has been in the aviation industry for 15 years.  
+                       In her previous roles, she has worked as a Flight Instructor and Check Instructor for a Part 
+                       141 flight school, flown as a Captain on a PC-12 for a 91k/135 operator, and spent 6 years 
+                       selling factory new aircraft for an OEM.  She is well versed in fractional and whole aircraft 
+                       ownership and specializes in Pilatus, Cirrus, HondaJet, and Embraer product lines.  To date, 
+                       Sarah has been responsible for over 150 aircraft transactions, totaling over $120M and holds 
+                       her CFI/CFII, AGI/IGI, Commercial SEL, and ATP MEL certificates. 
                     </p>
                 </div>
             </div>

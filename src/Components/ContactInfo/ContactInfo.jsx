@@ -8,14 +8,14 @@ export const ContactInfo = () => {
             <hr className='w-[20%] ml-[40%] justify-center mt-4 border-t-4 border-indigo-400'/>
             <h1 className='text-center pt-20 text-2xl lg:text-5xl font-bold text-indigo-400 font-mono'>I'd Like to Buy / Sell a HondaJet</h1>
         
-            <div className='md:flex px-10 lg:flex pt-20 justify-between'>
-                <div className='grid gap-8 w-[35%]'>
-                    <input className='border-black border-0 border-b-2 focus:outline-none' placeholder='FirstName'/>
-                    <input className='border-black border-0 border-b-2 focus:outline-none' placeholder='E-mail'/>
+            <div className='px-10 pt-20 justify-between'>
+                <div className='grid gap-8 lg:flex justify-between w-[35%] lg:w-full'>
+                    <input className='border-black lg:w-[40%] border-0 border-b-2 focus:outline-none' placeholder='FirstName'/>
+                    <input className='border-black lg:w-[40%] border-0 border-b-2 focus:outline-none' placeholder='LastName'/>
                 </div>
-                <div className='grid lg:pt-0 md:pt-0 pt-10 gap-8 w-[35%]'>
-                    <input className='border-black border-0 border-b-2 focus:outline-none' placeholder='LastName'/>
-                    <input className='border-black border-0 border-b-2 focus:outline-none' placeholder='Phone'/>
+                <div className='grid gap-8 lg:flex justify-between w-[35%] lg:w-full pt-10'>
+                    <input className='border-black lg:w-[40%] border-0 border-b-2 focus:outline-none' placeholder='E-mail'/>
+                    <input className='border-black lg:w-[40%] border-0 border-b-2 focus:outline-none' placeholder='Phone'/>
                 </div>
             </div>
 

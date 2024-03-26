@@ -25,8 +25,8 @@ export const ContactHero = () => {
                   <p className='pt-6'>Global Elite Aviation, LLC</p>
                   <p>1052 North Access Road</p>
                   <p>San Francisco, CA 94128</p>
-                  <p className='pt-4'>hello@globaleliteaviation.com</p>
-                  <p>415.613.9283</p>
+                  <p className='pt-4'>stalucci@315aviation.com</p>
+                  <p>914.908.0844</p>
               </div>
           </div>
         </div>

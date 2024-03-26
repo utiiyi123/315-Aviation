@@ -10,7 +10,7 @@ export const Footer = () => {
         <div className='bg-zinc-900 lg:flex pt-20 lg:p-40 text-white text-center lg:justify-between'>
             <div className='grid gap-2'>
                 <h1 className='text-xl lg:text-4xl'>Contact :</h1>
-                <p className='lg:text-xl'>hello@globaleliteaviation.com</p>
+                <p className='lg:text-xl'>stalucci@315aviation.com</p>
             </div>
             <div className='pt-8 lg:pt-0 grid gap-4'>
                 <a className='hover:text-red-600' href='/'>Home</a>
